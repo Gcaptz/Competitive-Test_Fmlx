@@ -1,10 +1,10 @@
-# Formulatrix Engineering Talent Day - Coding Assessment
+# Formulatrix Engineering Talent Day - Homework Test
 
 ![.NET 10](https://img.shields.io/badge/.NET-10.0-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Language](https://img.shields.io/badge/Language-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Role](https://img.shields.io/badge/Role-Backend%20Software%20Engineer-0078D4?style=for-the-badge)
 
-Welcome to my submission for the **Formulatrix Engineering Talent Day**. This repository contains the solution for the algorithmic coding challenge, demonstrating scalable and clean code practices using the latest **.NET 10** framework.
+Welcome to my submission for the **Formulatrix Engineering Talent Day**. This repository contains the solution for the **Competitive Test Challenge**, demonstrating scalable and clean code practices using the latest **.NET 10** framework.
 
 ## 📋 Assessment Overview
 
